@@ -9,8 +9,8 @@
 </head>
 <body>
 <form action="login">
-	user3：<input id="username" name="username" type="text"></input><br>
-	password3：<input id="username" name="password" type="password"></input><br>
+	user4：<input id="username" name="username" type="text"></input><br>
+	password4：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
 </body>
